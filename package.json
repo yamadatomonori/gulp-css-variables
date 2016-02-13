@@ -1,0 +1,17 @@
+{
+  "name": "gulp-css-variables",
+  "version": "1.0.0",
+  "description": "read CSS files and reorganize with CSS Variables",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "css",
+    "css_variables",
+    "css_custom_properties",
+    "gulpplugin"
+  ],
+  "author": "Tomonori Yamada <tomonori.yamada.g+npm@gmail.com> (https://jp.linkedin.com/in/yamada-tomonori-a549051a)",
+  "license": "ISC"
+}
