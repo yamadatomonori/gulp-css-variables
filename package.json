@@ -1,6 +1,6 @@
 {
   "name": "gulp-css-variables",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "read CSS files and reorganize with CSS Variables",
   "main": "index.js",
   "scripts": {
@@ -13,5 +13,14 @@
     "gulpplugin"
   ],
   "author": "Tomonori Yamada <tomonori.yamada.g+npm@gmail.com> (https://jp.linkedin.com/in/yamada-tomonori-a549051a)",
-  "license": "ISC"
+  "license": "ISC",
+  "repository" : {
+    "type" : "git",
+    "url" : "yamadatomonori/gulp-css-variables"
+  },
+  "dependencies": {
+    "css": "latest",
+    "gulp-util": "latest",
+    "through2": "latest"
+  }
 }
