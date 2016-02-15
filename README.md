@@ -1,5 +1,7 @@
 # gulp-css-variables
-gulp pulungin to reorgnize old css files with css variables
+
+## description
+Gulp CSS Variables is a plugin of Gulp to replace common CSS rules in CSS files with a CSS Variable. This plugin is for Front End Developers who maintains CSS files containing some fixed brand colors or other CSS rules.
 
 ## usage
 ```js
